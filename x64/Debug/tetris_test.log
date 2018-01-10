@@ -1,0 +1,5 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+c:\users\z5578\downloads\tetris\tetrixwindow.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  tetris_test.vcxproj -> C:\Users\z5578\Downloads\tetris\debug\tetris_test.exe
+  tetris_test.vcxproj -> debug\tetris_test.pdb (Full PDB)
